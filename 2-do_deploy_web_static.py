@@ -12,7 +12,7 @@ from fabric.api import run
 import re
 
 
-env.hosts = ['100.24.209.37', '3.237.5.93']
+env.hosts = ['34.204.176.35', '3.238.177.139']
 env.user = 'ubuntu'
 env.key_filename = '~/.ssh/id_rsa.pub'
 
